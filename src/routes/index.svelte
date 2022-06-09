@@ -30,7 +30,9 @@
 	<div class="testimonials">
 		{#each pageDetails.testimonials as testimonial}
 			<blockquote class="testimonial">
-				<FancyDispatcher component={pageDetails.component} />
+				{#key pageDetails.component}
+					<FancyDispatcher component={pageDetails.component} />
+				{/key}
 				<p class="testimonial-message">
 					{pageDetails.component} — {testimonial.message}
 				</p>
