@@ -32,7 +32,7 @@
 			<blockquote class="testimonial">
 				<FancyDispatcher component={pageDetails.component} />
 				<p class="testimonial-message">
-					msgmsg — {testimonial.message}
+					{pageDetails.component} — {testimonial.message}
 				</p>
 				<p class="testimonial-author">
 					<img
