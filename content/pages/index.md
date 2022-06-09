@@ -3,6 +3,7 @@ title:
 description:
 call_to_action: Contact
 large_header: true
+component: page
 testimonials:
   - message: We use Justice Law in all our endeavours. They offer an unparalleled service when it comes to running a business.
     testimonial_image: "https://placekitten.com/g/60/60?a=.png"
