@@ -1,0 +1,56 @@
+[
+	{
+		"title": "Pages",
+		"links": [
+			{
+				"name": "Home",
+				"url": "/"
+			},
+			{
+				"name": "About",
+				"url": "/about"
+			},
+			{
+				"name": "Services",
+				"url": "/services"
+			},
+			{
+				"name": "Contact",
+				"url": "/contact"
+			},
+			{
+				"name": "Blog",
+				"url": "/blog"
+			}
+		]
+	},
+	{
+		"title": "Social",
+		"links": [
+			{
+				"name": "Facebook",
+				"url": "https://facebook.com/",
+				"social_icon": "Facebook",
+				"new_window": true
+			},
+			{
+				"name": "Twitter",
+				"url": "https://twitter.com/",
+				"social_icon": "Twitter",
+				"new_window": true
+			},
+			{
+				"name": "Instagram",
+				"url": "https://instagram.com/",
+				"social_icon": "Instagram",
+				"new_window": true
+			},
+			{
+				"name": "LinkedIn",
+				"url": "https://linkedin.com/",
+				"social_icon": "LinkedIn",
+				"new_window": true
+			}
+		]
+	}
+]
